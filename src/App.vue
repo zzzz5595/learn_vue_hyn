@@ -5,7 +5,7 @@
 <script>
 export default {
 	setup() {
-		const a = '1234';
+		const a = 'hello world';
 		return {};
 	},
 };
