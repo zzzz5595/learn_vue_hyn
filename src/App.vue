@@ -5,7 +5,7 @@
 <script>
 export default {
 	setup() {
-		const a = 'aa';
+		const a = 'aadd';
 		return {};
 	},
 };
